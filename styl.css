@@ -73,4 +73,28 @@ header form button{
     flex-wrap: wrap;
 }
 
+.chef-card{
+    width: 300px;
+    text-align: center;
+}
 
+.human{
+    width: 200px;
+    height: 200px;
+    border-radius: 80%;
+    border: #000000 solid 2px;
+}
+
+.chef-img{
+    display: flex;
+    justify-content: right;
+    margin: 60px;
+}
+
+.chebur{
+    width: 500px;
+    height: 350px;
+    border-radius: 30px;
+    border: #000000 solid 2px;
+    margin-right: 60px;
+}
