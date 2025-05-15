@@ -98,6 +98,7 @@ header form button {
   text-align: center;
   margin: 20px;
   padding: 5px;
+  box-shadow: #000000 0px 5px 15px;
 }
 
 footer {
@@ -150,4 +151,9 @@ footer {
 .img-png1 {
   width: 600px;
   border-radius: 20px;
+}
+
+.img-and-recipt{
+  width: 300px;
+  border-radius: 15px;
 }
