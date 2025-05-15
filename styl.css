@@ -107,64 +107,48 @@ footer {
   padding: 10px;
 }
 
-.fa-brands{
-    color: #ffffff;
-    font-size: 30px;
+.fa-brands {
+  color: #ffffff;
+  font-size: 30px;
 }
 
-.img-card{
+.img-card {
   width: 200px;
   border-radius: 60%;
   border: #000000 solid 3px;
 }
 
-.recept{
-  display: flex;
-  justify-content: end;
+.recept {
   margin-right: 80px;
   margin-top: 80px;
 }
 
-.Card-recept{
+.Card-recept {
   display: flex;
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
-  margin: 0px 50px;
+  margin: 60px 0px;
 }
 
-.text-ops{
+.text-ops {
+  width: 350px;
   font-size: 20px;
-  text-align: left;
-  margin-right: 200px;
 }
 
-.img-png{
+.img-png {
   width: 600px;
   border-radius: 20px;
 }
 
-.card-rp1{
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  flex-wrap: wrap;
-  margin: 0px 50px;
-}
-
-.recept1{
+.recept1 {
   display: flex;
   justify-content: left;
   margin-left: 80px;
   margin-top: 80px;
 }
 
-.text-1{
-  font-size: 20px;
-  margin-left: 150px;
-}
-
-.img-png1{
+.img-png1 {
   width: 600px;
   border-radius: 20px;
 }
