@@ -82,14 +82,61 @@ footer {
   margin: 30px;
 }
 
-.img-derek{
-  width: 450px;
+.derek{
+  display: flex;
+  width: 50%;
 }
 
-.text-8{
-  display: inline;
-  font-size: 30px;
-  text-align: start;
-  font-family: "Oswald", sans-serif;
-  flex-wrap: wrap;
+.team{
+  display: flex;
+}
+
+.derek-img{
+  width: 450px;
+  height: 630px;
+  margin-left: 180px;
+}
+
+.text-derek{
+  font-size: 25px;
+  margin-left: 40px;
+  text-align: center;
+}
+
+.personal{
+  width: 50%;
+}
+
+.programist{
+  display: flex;
+}
+
+.img-prog{
+  width: 240px;
+  height: 240px;
+  margin-left: 80px;
+}
+
+.text-prog{
+  margin-left: 40px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.img-shef-povar{
+  width: 240px;
+  height: 240px;
+  margin-left: 80px;
+  margin-top: 60px;
+}
+
+.text-shef-povar{
+  margin-top: 60px;
+  margin-left: 40px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.shef-povar{
+  display: flex;
 }
